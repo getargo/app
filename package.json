@@ -1,0 +1,27 @@
+{
+  "name": "argo",
+  "productName": "Argo",
+  "version": "0.1.0",
+  "description": "Static-site blog authoring and building system.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-mac": "electron-packager . Argo --overwrite --platform=darwin --arch=x64  --icon=./icons/argo.icns --prune=true --out=release-builds",
+    "package-linux": "electron-packager . Argo --overwrite --platform=linux  --arch=x64  --icon=./icons/argo.png  --prune=true --out=release-builds"
+  },
+  "repository": "https://github.com/pmjones/argoblog",
+  "keywords": [
+    "static",
+    "site",
+    "blog",
+    "markdown",
+    "wordpress"
+  ],
+  "author": "Paul M. Jones",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "electron": "^10.0.0",
+    "electron-packager": "^15.0.0"
+  },
+  "dependencies": {}
+}
