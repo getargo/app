@@ -1,8 +1,8 @@
 {
   "name": "argo",
   "productName": "Argo",
-  "version": "0.1.0",
-  "description": "Static-site blog authoring and building system.",
+  "version": "1.0.0",
+  "description": "Flat-file static-site blog authoring and building system.",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
