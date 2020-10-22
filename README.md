@@ -1,16 +1,19 @@
 # Argo Application
 
+"Keep your content cancel-resistant."
+
 Argo is a flat-file static-site blog authoring and building system. It presents
 a browser interface for ease of use, and synchronizes with any hosting service
 using Git or rsync.
 
 Because Argo keeps all your content on your computer, no hosting service can
-ever deprive you of your content by shutting down your account. The content you
+ever deprive you of your content by cancelling your account. The content you
 create is always on your own computer. This makes Argo sites more resistant to
 censorship. Further, because Argo is a flat-file static-site system, remote
-hosting requirements are minimal. Only a web server is needed.
+hosting requirements are minimal. Only a web server and a syncing service are
+needed.
 
-This is the desktop Electron application wrapper around the
+This repository holds the desktop Electron application wrapper around the
 [core PHP code](https://github.com/getargo/php).
 
 ## Mac Users
