@@ -19,7 +19,7 @@ This repository holds the desktop Electron application wrapper around the
 ## Mac Users
 
 Download
-[Argo v0.0.1](https://github.com/getargo/app/releases/download/0.0.1/Argo.app.zip)
+[Argo](https://github.com/getargo/app/releases/download/1.0.0/Argo.app.zip)
 from [releases](https://github.com/getargo/app/releases), and double-click to
 run it.
 
