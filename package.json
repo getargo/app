@@ -1,7 +1,7 @@
 {
   "name": "argo",
   "productName": "Argo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Flat-file static-site blog authoring and building system.",
   "main": "main.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "Paul M. Jones",
   "license": "GPL-3.0-only",
   "devDependencies": {
-    "electron": "^10.0.0",
+    "electron": "^10.1.5",
     "electron-packager": "^15.0.0"
   },
   "dependencies": {}

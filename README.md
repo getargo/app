@@ -18,6 +18,8 @@ This repository holds the desktop Electron application wrapper around the
 
 ## Mac Users
 
+**Requires Mac OS X Catalina or later.**
+
 Download
 [Argo](https://github.com/getargo/app/releases/download/1.0.0/Argo.app.zip)
 from [releases](https://github.com/getargo/app/releases), and double-click to
@@ -35,7 +37,7 @@ developers`. Then try to launch Argo again.
 
 ## Linux Users
 
-TBD.
+TBD. (Requires PHP 7.3 or later, and Git.)
 
 ## Developers
 
@@ -51,4 +53,4 @@ To install and run the Electron application:
 
 ## Getting Started
 
-Watch this 5-minute video: <https://vimeo.com/471028569>
+Watch this 5-minute video: <https://vimeo.com/472384437>
