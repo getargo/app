@@ -51,4 +51,4 @@ To install and run the Electron application:
 
 ## Getting Started
 
-Watch this 5-minute video: <https://vimeo.com/471028569>
+Watch this 5-minute video: <https://vimeo.com/472384437>
