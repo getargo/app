@@ -28,10 +28,6 @@ App Store. To get around this, open `System Preferences` -> `Security & Privacy`
 -> `General`, and allow apps downloaded from `App Store and identified
 developers`. Then try to launch Argo again.
 
-Mac users may find that OS X will not launch Argo, because it is not from the
-App Store. To get around this, open `System Preferences` -> `Security & Privacy`
--> `General`, and allow apps downloaded from `App Store and identified
-developers`. Then try to launch Argo again.
 
 ## Linux Users
 
