@@ -21,7 +21,7 @@ This repository holds the desktop Electron application wrapper around the
 **Requires Mac OS X Catalina or later.**
 
 Download
-[Argo](https://github.com/getargo/app/releases/download/1.0.0/Argo.app.zip)
+[Argo](https://github.com/getargo/app/releases/download/1.1.0/Argo.app.zip)
 from [releases](https://github.com/getargo/app/releases), and double-click to
 run it.
 
@@ -30,10 +30,6 @@ App Store. To get around this, open `System Preferences` -> `Security & Privacy`
 -> `General`, and allow apps downloaded from `App Store and identified
 developers`. Then try to launch Argo again.
 
-Mac users may find that OS X will not launch Argo, because it is not from the
-App Store. To get around this, open `System Preferences` -> `Security & Privacy`
--> `General`, and allow apps downloaded from `App Store and identified
-developers`. Then try to launch Argo again.
 
 ## Linux Users
 
